@@ -9,10 +9,10 @@ Your Cluster Details
 Cluster Assignments
 +++++++++++++++++++
 
-Refer to the link below to look up your assigned cluster for the event. If your cluster details are not found, first verify you have entered the same e-mail address used to register for GTS (and not an alias), otherwise contact **apac-tech-enablement@nutanix.com** and request to be added.
+Refer to the link below to look up your assigned cluster for the event. If your cluster details are not found, first verify you have entered the same e-mail address used to register for GTS (and not an alias), otherwise contact **te-emea@nutanix.com** and request to be added.
 
 .. raw:: html
 
-  <strong><font color="red">DO NOT ATTEMPT TO CONNECT TO YOUR CLUSTER PRIOR TO THE DESIGNATED TIME ON MARCH 18. Some clusters may be in-use for testing purposes, or be in the process of being staged for the event. Unauthorized access to the clusters during this time could negatively impact your lab experience. Thank you.</font></strong></br></br>
+  <strong><font color="red">DO NOT ATTEMPT TO CONNECT TO YOUR CLUSTER PRIOR TO THE DESIGNATED TIME ON APRIL 2nd. Some clusters may be in-use for testing purposes, or be in the process of being staged for the event. Unauthorized access to the clusters during this time could negatively impact your lab experience. Thank you.</font></strong></br></br>
 
 `Click here to search for your cluster details. <http://10.42.7.121:3000/>`_

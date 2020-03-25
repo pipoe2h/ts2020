@@ -7,12 +7,12 @@
    :name: _info
    :hidden:
 
-   info/clusteraccess
-   info/clusterinfo
+   .. info/clusteraccess
+   .. info/clusterinfo
 
 .. raw:: html
 
-  <br><center><img src="https://get-ahv-images.s3.amazonaws.com/vegasbanner.png" alt="Welcome to Nutanix Global Tech Summit 2020"></center><br>
+  <br><center><img src="https://get-ahv-images.s3.amazonaws.com/GTSLOGO.png" alt="Welcome to Nutanix Global Tech Summit 2020"></center><br>
 
 *Welcome! On Wednesday evening, this page will be updated with all available labs and cluster assignment information.*
 
@@ -33,10 +33,11 @@ This year we're celebrating how we power customer use cases by exposing you to m
 
 Labs are designed to be completed by each individual, not in groups.
 
+..
    .. raw:: html
 
      <strong><font color="red">Before beginning any labs, review the following sections for important information regarding your lab specific lab environment:</font></strong>
 
    - :ref:`clusteraccess` - *VPN configuration for accessing the Nutanix Hosted POC network*
    - :ref:`clusterinfo` - *Your individual cluster assignment and details on how your cluster was staged*
-   - :ref:`validation` - *How to get assistance with a lab*
+    
