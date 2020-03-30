@@ -86,16 +86,16 @@ The lab guides will explicitly share any unique credentials, the table below con
     - Password
   * - **Prism Element**
     - admin
-    - techX2020!
+    - *Will Be Provided*
   * - **Prism Central**
     - admin
-    - techX2020!
+    - *Will Be Provided*
   * - **Controller VMs**
     - nutanix
-    - techX2020!
+    - *Will Be Provided*
   * - **Prism Central VM**
     - admin
-    - techX2020!
+    - *Will Be Provided*
   * - **NTNXLAB Domain**
     - NTNXLAB\\Administrator
     - nutanix/4u
