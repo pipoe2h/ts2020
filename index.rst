@@ -120,4 +120,4 @@
 
 - :ref:`clusteraccess` - *VPN configuration for accessing the Nutanix Hosted POC network*
 - :ref:`clusterinfoapac` - *Your individual cluster assignment and details on how your cluster was staged*
-- :ref:`apachelp` - *How to get assistance with a lab*
+- :ref:`emeahelp` - *How to get assistance with a lab*
