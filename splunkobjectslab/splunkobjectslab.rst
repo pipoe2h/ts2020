@@ -291,8 +291,9 @@ Configure SmartStore
 
 #. Gather the required information:
 
-   - MYOBJECTSACCESSKEY: You should have this from the IAM Key section above
-   - MYOBJECTSSECRETKEY: You should have this from the IAM Key section above
+   - MYOBJECTSACCESSKEY: You should have this from the *IAM Key* section above
+   - MYOBJECTSSECRETKEY: You should have this from the *IAM Key* section above
+   - MYAWESOMEBUCKETHERE: You should have this from the *Create Bucket Using IAM User* section above
    - OBJECTSCLIENTIP: You can get this from **☰ Menu > Services > Objects**
 
    .. figure:: images/17.png
