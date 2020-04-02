@@ -97,7 +97,6 @@ Building a CI/CD pipeline generally involves connecting a large number of dispar
 
 #. Update the **JenkinsAHVMaster**. **JenkinsAHVSlave**, **Workstation_AHV**, and **Gitea_AHV** services with the following information:
 
-   - **Image** - CentOS7.qcow2
    - **NIC 1** - Primary
 
 
