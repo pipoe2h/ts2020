@@ -39,7 +39,7 @@ While this lab focuses on configuring Veeam and backup jobs within Veeam for AHV
 
 .. figure:: images/mine_dashboard.png
 
-Because we are using shared clusters here at Nutanix Global Tech Summit, we cannot deploy Nutanix Mine with Veeam to the lab clusters, but for more information, including details, setup instructions, and sales assets, check out `<https://ntnx.tips/mine>`_
+Because we are using shared clusters here at Nutanix Global Tech Summit, we cannot deploy Nutanix Mine with Veeam to the lab clusters, but for more information, including details, setup instructions, and sales assets, check out `<http://ntnx.tips/mine>`_
 
 
 Deploying Veeam Backup Server
