@@ -155,7 +155,7 @@ Testing the Share
 
    .. code-block:: PowerShell
 
-      New-Item \\BootcampFS\INITIALS-FiestaShare\MyFile.flv
+      New-Item -path \\BootcampFS\INITIALS-FiestaShare -type file -name "MyFile.flv"
 
    Observe that creation of the new file is denied.
 
