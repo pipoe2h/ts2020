@@ -21,7 +21,7 @@ Provisioning Your Application
 #. Log in to Prism Central for your **PrimarySite** cluster at https://10.38.194.40:9440/ using the following credentials:
 
    - **Username** - admin
-   - **Password** - emeaX2020!
+   - **Password** - techX2020!
 
 #. Open :fa:`bars` **> Administration > Availability Zones** and observe that the cluster has already been paired to another Prism Central instance containing your **SecondarySite** cluster. No action is required to add additional Availability Zones for this lab.
 
