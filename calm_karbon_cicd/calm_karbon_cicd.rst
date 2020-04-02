@@ -40,7 +40,7 @@ Building a CI/CD pipeline generally involves connecting a large number of dispar
 
 #. In **Prism Central**, select :fa:`bars` **> Services > Calm**.
 
-#. Select |blueprints| **Blueprints** in the left hand toolbar to view and manage Calm blueprints.
+#. Select |bp-icon| **Blueprints** in the left hand toolbar to view and manage Calm blueprints.
 
    .. note::
 
@@ -99,6 +99,7 @@ Building a CI/CD pipeline generally involves connecting a large number of dispar
 
    - **Image** - CentOS7.qcow2
    - **NIC 1** - Primary
+
 
 #. Click **Save**
 
