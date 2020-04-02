@@ -169,7 +169,7 @@ Configuring the CCA
 
 #. Fill in the following fields and click **Log In** to connect the CCA to your Nutanix environment:
 
-   - **Username** - Previously created *Initials*\ -FramceSvc account
+   - **Username** - Previously created *Initials*\ -FrameSvc account
    - **Password** - emeaX2020!
    - **Prism Central URL** - \https://<*Prism Central IP*>:9440
 
