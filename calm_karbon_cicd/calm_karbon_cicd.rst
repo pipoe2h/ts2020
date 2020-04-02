@@ -46,13 +46,13 @@ Building a CI/CD pipeline generally involves connecting a large number of dispar
 
      Mousing over an icon will display its title.
 
-.. #. Find the blueprint titled **CICD_Infra**, select its checkbox, and from the **Action** dropdown, click **Launch**.
+   .. #. Find the blueprint titled **CICD_Infra**, select its checkbox, and from the **Action** dropdown, click **Launch**.
 
-..     .. figure:: images/02_bp_launch_1.png
-         :align: center
-         :alt: Nutanix Calm CI/CD Infrastructure Blueprint Launch 1
+   ..     .. figure:: images/02_bp_launch_1.png
+           :align: center
+           :alt: Nutanix Calm CI/CD Infrastructure Blueprint Launch 1
 
-#. Select the blueprint titled **CICD_Infra**.
+#. Select the blueprint titled **LD_CICD**.
 
 #. Click **Credentials** :fa:`plus-circle` and fill out the following fields:
 
@@ -291,7 +291,7 @@ After a GitHub commit triggers a Jenkins build, and Jenkins successfully builds 
        :align: center
        :alt: DockerHub Create Repository Button
 
-.. _DockerHub: https://hub.docker.com/
+   .. _DockerHub: https://hub.docker.com/
 
 #. Name the repository **hello-kubernetes**, give it a description of your choice, leave all other fields as default (be sure to leave the repo as **Public**), and click **Create**.
 
@@ -476,8 +476,8 @@ We'll now create our Jenkinsfile, which is the script Jenkins uses to run our Pi
 
      Take note of the ${GIT_COMMIT} value in the deployment YAML.  Jenkins will automatically substitute in the git commit ID, so each time the deployment is applied, the image tag is incremented, and the pods are re-deployed.
 
-.. _Service: https://kubernetes.io/docs/concepts/services-networking/service/
-.. _Deployment: https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
+   .. _Service: https://kubernetes.io/docs/concepts/services-networking/service/
+   .. _Deployment: https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 
 #. Now that our Service is deployed, and our local files are written, it’s time to commit and push changes to our repository with the following commands.
 
