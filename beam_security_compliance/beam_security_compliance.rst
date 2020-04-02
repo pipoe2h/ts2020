@@ -36,7 +36,7 @@ Beam’s security compliance capabilities for Nutanix private cloud have two com
 
 #. Beam SaaS login credentials:
 	- Navigate to https://beam.nutanix.com/
-	- Select “*Sign in with My Nutanix*" and then "*Login with your Company ID*”
+	- Select “*Sign in with My Nutanix*" and then **"Login with your Company ID”**
 	- Enter Company ID: *beam-lab@nutanix.com*
 	- Enter Unique ID: *nutanix6-ad*
 	- This will take you to an Active Directory login page where you will enter a username and password. Use your login credentials assigned from the cluster assignment spreadsheet.
