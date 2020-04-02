@@ -134,7 +134,7 @@ Era is distributed as a virtual appliance that can be installed on either AHV or
 
 #. From the dropdown menu, select **SLAs**.
 
-   Era has five built-in SLAs (Gold, Silver, Bronze, Zero, and Brass). SLAs control however of the database server is backed up. This can with a combination of Continuous Protection, Daily, Weekly Monthly and Quarterly protection intervals.
+   Era has five built-in SLAs (Gold, Silver, Bronze, Zero, and Brass). SLAs control however the database server is backed up. This can with a combination of Continuous Protection, Daily, Weekly Monthly and Quarterly protection intervals.
 
 #. From the dropdown menu, select **Profiles**.
 
