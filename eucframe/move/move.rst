@@ -59,7 +59,7 @@ In this exercise, you will deploy Move from a disk image that has already been p
 
 #. Open \https://*Move-VM-IP*/ in a new browser tab.
 
-#. Accept the End User License Agreement and provide a new password to log into the Move web interface (e.g. **techX2020!**).
+#. Accept the End User License Agreement and provide a new password to log into the Move web interface (e.g. **emeaX2020!**).
 
 #. Specify your new password and click **Log In**.
 
@@ -78,7 +78,7 @@ The target environment is the Nutanix AHV cluster to which you plan to migrate V
    - **Environment Name** - *Your Prism Central or Nutanix cluster name*
    - **Nutanix Environment** - *Your Prism Central or Prism Element IP*
    - **User Name** - admin
-   - **Password** - techX2020!
+   - **Password** - emeaX2020!
 
    .. figure:: images/3.png
 
@@ -102,7 +102,7 @@ The source environment is the AHV, ESXi, Hyper-V, or AWS environment from which 
    - (If using a PHX Cluster) **vCenter Server** - 10.42.38.40
    - (If using a RTP Cluster) **vCenter Server** - 10.55.76.40
    - **User Name** - move@vsphere.local
-   - **Password** - techX2020!
+   - **Password** - emeaX2020!
 
 .. figure:: images/4.png
 
@@ -114,7 +114,7 @@ Staging a Source VM
 #. In a new browser tab, open \https://*vCENTER-SERVER-IP*/ui/ and log in with the following credentials:
 
    - **User Name** - move@vsphere.local
-   - **Password** - techX2020!
+   - **Password** - emeaX2020!
 
    .. figure:: images/5.png
 

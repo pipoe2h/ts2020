@@ -25,7 +25,7 @@ In this brief exercise, you will experience how IT generalists can provision and
 #. In a browser, open **Prism Element** and log in using the following local user credentials:
 
    - **Username** - admin
-   - **Password** - techX2020!
+   - **Password** - emeaX2020!
 
    .. figure:: images/1.png
 
@@ -204,7 +204,7 @@ In the following exercises, Carol is going to up her Private Cloud game and brin
 #. Access **Prism Central** by clicking the **Launch** button and logging in with the following credentials:
 
    - **User Name** - admin
-   - **Password** - techX2020!
+   - **Password** - emeaX2020!
 
    .. figure:: images/6.png
 

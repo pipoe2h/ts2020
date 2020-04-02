@@ -71,7 +71,7 @@ Manual VM Deployment
 
    - **Enter the Nutanix cluster IP** - *Assigned Nutanix Cluster IP*
    - **Enter the Nutanix user name for...** - admin
-   - **Enter the Nutanix password for "admin"** - techX2020!
+   - **Enter the Nutanix password for "admin"** - emeaX2020!
 
    The script will validate the VM name does not exceed 15 characters and then rename the server to match the VM name.
 
@@ -79,7 +79,7 @@ Manual VM Deployment
 
    - **Enter the Nutanix cluster IP** - *Assigned Nutanix Cluster IP*
    - **Enter the Nutanix user name for...** - admin
-   - **Enter the Nutanix password for "admin"** - techX2020!
+   - **Enter the Nutanix password for "admin"** - emeaX2020!
    - **Enter the Nutanix container name** - Default
 
    .. note::

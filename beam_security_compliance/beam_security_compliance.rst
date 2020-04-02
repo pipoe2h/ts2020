@@ -70,7 +70,7 @@ A Beam-VM has already been installed on a lab cluster and configured with a Pris
 A VM has been created in Prism Central using the above image. You may log into this Prism Central account to view it:
 URL: https://10.55.20.42:9440/
 Username: *admin*
-Password: *techX2020!*
+Password: *emeaX2020!*
 
 The Beam-VM needs 2 vCPUs (at least 1 core per vCPU), 2GB RAM and 15GB storage. The VM name used for this lab in Prism Central is *BeamVM-DoNotDelete*.
 

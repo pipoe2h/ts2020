@@ -47,7 +47,7 @@ Typically, Hosted POC clusters provide 2x /25 VLANs. In order to provide adequat
 #. Log into **Prism Central** using the following credentials:
 
    - **User Name** - admin
-   - **Password** - techX2020!
+   - **Password** - emeaX2020!
 
 #. Select :fa:`bars` **> Virtual Infrastructure > Subnets**.
 

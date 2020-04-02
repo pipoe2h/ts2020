@@ -70,7 +70,7 @@ Adding Prism Service Account
    - **First Name** - *Initials* Frame
    - **Last Name** - Service Account
    - **Email** - (Any e-mail address)
-   - **Password** - techX2020!
+   - **Password** - emeaX2020!
    - Under **Roles**, select **User Admin** and **Prism Central Admin**
 
    .. figure:: images/1.png
@@ -170,7 +170,7 @@ Configuring the CCA
 #. Fill in the following fields and click **Log In** to connect the CCA to your Nutanix environment:
 
    - **Username** - Previously created *Initials*\ -FramceSvc account
-   - **Password** - techX2020!
+   - **Password** - emeaX2020!
    - **Prism Central URL** - \https://<*Prism Central IP*>:9440
 
    .. figure:: images/4.png
